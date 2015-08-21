@@ -1,0 +1,49 @@
+package Animal;
+
+import Animal.Tipo.*;
+
+public class fabricaAnimal {
+	
+	public static final int PERRO=1;
+	public static final int AVE=2;
+	public static final int TORTUGA=3;
+	
+	
+	private static fabricaAnimal fAnimal;
+	
+	private fabricaAnimal() {}
+	
+	public static synchronized fabricaAnimal getInstance(){
+		if (fAnimal==null)
+			fAnimal=new fabricaAnimal();
+		return fAnimal;
+	}
+
+	public animal create(int tipo) {
+		animal result=null;
+		try{			
+			switch(tipo){
+			case PERRO:
+				result= new perro();
+				break;
+				
+			case AVE:
+				result=new ave();
+				result.setNumPatas(2);
+				break;
+				
+			case TORTUGA:
+				result=new tortuga();
+				break;
+			}
+			return result;
+						
+		}catch (Exception e){
+			System.out.println("El animal no pudo ser creado");
+		}
+		
+		return result;
+
+	}
+	
+}

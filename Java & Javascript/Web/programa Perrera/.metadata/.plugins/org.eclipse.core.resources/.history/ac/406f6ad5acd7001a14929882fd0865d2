@@ -1,0 +1,44 @@
+package Perrera;
+/**
+ * Clase que contiene los datos de la vacuna.
+ */
+
+public class Vacuna {
+	private String vacunaID;
+	private String Nombre;
+	private String Descripcion;
+	private String Tipo;			//Describe a que animal debe ser puesta.
+	private int EdadVacunacion;
+
+	public Vacuna(String nom){
+		this.Nombre=nom;
+	}
+	
+	public String getDescripcion() {
+		return Descripcion;
+	}
+	public void setDescripcion(String descripcion) {
+		Descripcion = descripcion;
+	}
+	public int getEdadVacunacion() {
+		return EdadVacunacion;
+	}
+	public void setEdadVacunacion(int edadVacunacion) {
+		EdadVacunacion = edadVacunacion;
+	}
+	public String getNombre() {
+		return Nombre;
+	}
+	public void setNombre(String nombre) {
+		Nombre = nombre;
+	}
+	public String getTipo() {
+		return Tipo;
+	}
+	public void setTipo(String tipo) {
+		Tipo = tipo;
+	}
+	
+	
+}
+

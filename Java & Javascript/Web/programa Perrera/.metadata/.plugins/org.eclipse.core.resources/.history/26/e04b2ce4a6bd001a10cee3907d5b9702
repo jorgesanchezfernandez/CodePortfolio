@@ -1,0 +1,7 @@
+package Animal.Tipo;
+
+import Animal.animal;
+
+public class tortuga extends animal {
+
+}

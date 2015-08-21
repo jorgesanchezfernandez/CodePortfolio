@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app id="WebApp_ID" version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+	<display-name>
+	Perrera</display-name>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+<!-- ========================= Aplicación ================================= -->
+    <display-name>Tomcat Primeros Pasos</display-name>
+    <description>
+      Primeros pasos con Tomcat.
+    </description>
+
+<!-- ========================= Definición de Servlets ====================== -->
+    <servlet>
+        <servlet-name>HelloWorld</servlet-name>
+        <servlet-class>HelloWorld</servlet-class>
+        <init-param>
+          <param-name>cont</param-name>
+          <param-value>100</param-value>
+          <description>donde tiene que inicializarse el contador </description>
+        </init-param>
+        
+    </servlet>
+    
+    <servlet>
+        <servlet-name>FrontController</servlet-name>
+        <servlet-class>Servlet.FrontController</servlet-class>
+    </servlet>
+    
+   
+    <servlet>
+        <servlet-name>PasswordChecker</servlet-name>
+        <jsp-file>/PasswordChecker.jsp</jsp-file>
+        <init-param>
+          <param-name>user</param-name>
+          <param-value>practica</param-value>
+        </init-param>
+        <init-param>
+          <param-name>passwd</param-name>
+          <param-value>practica</param-value>
+        </init-param>
+    </servlet>
+    
+    
+
+<!-- ========================= Mapeo de Sertvlets Definidas ================ --> 
+    <servlet-mapping>
+        <servlet-name>HelloWorld</servlet-name>
+        <url-pattern>/HelloSimple</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>FrontController</servlet-name>
+        <url-pattern>/FrontController</url-pattern>
+    </servlet-mapping>
+    
+    <servlet-mapping>
+        <servlet-name>PasswordChecker</servlet-name>
+        <url-pattern>/PasswordChecker</url-pattern>
+    </servlet-mapping>
+
+
+<!-- ========================= Session ( en minutos)======================== -->
+    <session-config>
+      <session-timeout>30</session-timeout>
+    </session-config>    
+
+<!-- ========================= Páginas de inicio =========================== -->
+    <welcome-file-list>
+        <welcome-file>hola.html</welcome-file>
+        <welcome-file>index.html</welcome-file>
+    </welcome-file-list>
+
+
+</web-app>

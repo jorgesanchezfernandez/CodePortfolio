@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window height="736" maximized="true" width="1024" x="273" y="-8">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="95" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="121" y="22"/>
+<coolItem id="org.eclipse.jst.j2ee.J2eeMainActionSet" itemType="typeToolBarContribution" x="59" y="22"/>
+<coolItem id="org.eclipse.jst.j2ee.J2eeMainActionSet2" itemType="typeToolBarContribution" x="36" y="22"/>
+<coolItem id="org.eclipse.jst.j2ee.J2eeMainActionSet3" itemType="typeToolBarContribution" x="36" y="22"/>
+<coolItem id="org.eclipse.jst.j2ee.J2eeMainActionSet4" itemType="typeToolBarContribution" x="36" y="22"/>
+<coolItem id="org.eclipse.jst.ws.consumption" itemType="typeToolBarContribution" x="36" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="59" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="59" y="22"/>
+<coolItem id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" itemType="typeToolBarContribution" x="36" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="180" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.wst.html.core.htmlsource.source" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" itemType="typeToolBarContribution" x="113" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.browser.editor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jst.jsp.core.jspsource.source" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page focus="true" label="Workspace - J2EE">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+<part id="25"/>
+<part id="26"/>
+<part id="27"/>
+<part id="28"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="VistaCentros.jsp" partName="VistaCentros.jsp" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/WebContent/VistaCentros.jsp" title="VistaCentros.jsp" tooltip="Perrera/WebContent/VistaCentros.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/WebContent/VistaCentros.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AnimalStore.java" partName="AnimalStore.java" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/src/Perrera/AnimalStore.java" title="AnimalStore.java" tooltip="Perrera/src/Perrera/AnimalStore.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/src/Perrera/AnimalStore.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CentroStore.java" partName="CentroStore.java" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/src/Perrera/CentroStore.java" title="CentroStore.java" tooltip="Perrera/src/Perrera/CentroStore.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/src/Perrera/CentroStore.java"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="VistaAnimalesxCentro.jsp" partName="VistaAnimalesxCentro.jsp" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/WebContent/VistaAnimalesxCentro.jsp" title="VistaAnimalesxCentro.jsp" tooltip="Perrera/WebContent/VistaAnimalesxCentro.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/WebContent/VistaAnimalesxCentro.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="VacunaStore.java" partName="VacunaStore.java" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/src/Perrera/VacunaStore.java" title="VacunaStore.java" tooltip="Perrera/src/Perrera/VacunaStore.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/src/Perrera/VacunaStore.java"/>
+</editor>
+<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="web.xml" partName="web.xml" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/WebContent/WEB-INF/web.xml" title="web.xml" tooltip="Perrera/WebContent/WEB-INF/web.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/WebContent/WEB-INF/web.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FrontController.java" partName="FrontController.java" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/src/Servlet/FrontController.java" title="FrontController.java" tooltip="Perrera/src/Servlet/FrontController.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/src/Servlet/FrontController.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CentroProcesor.java" partName="CentroProcesor.java" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/src/Perrera/CentroProcesor.java" title="CentroProcesor.java" tooltip="Perrera/src/Perrera/CentroProcesor.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/src/Perrera/CentroProcesor.java"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="VistaAnimales.jsp" partName="VistaAnimales.jsp" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/WebContent/VistaAnimales.jsp" title="VistaAnimales.jsp" tooltip="Perrera/WebContent/VistaAnimales.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/WebContent/VistaAnimales.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AnimalProcesor.java" partName="AnimalProcesor.java" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/src/Perrera/AnimalProcesor.java" title="AnimalProcesor.java" tooltip="Perrera/src/Perrera/AnimalProcesor.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/src/Perrera/AnimalProcesor.java"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Animal.java" partName="Animal.java" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/src/Perrera/Animal.java" title="Animal.java" tooltip="Perrera/src/Perrera/Animal.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/src/Perrera/Animal.java"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="LineaPeticiones.jsp" partName="LineaPeticiones.jsp" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/WebContent/LineaPeticiones.jsp" title="LineaPeticiones.jsp" tooltip="Perrera/WebContent/LineaPeticiones.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/WebContent/LineaPeticiones.jsp"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="realizarPeticion.jsp" partName="realizarPeticion.jsp" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/WebContent/realizarPeticion.jsp" title="realizarPeticion.jsp" tooltip="Perrera/WebContent/realizarPeticion.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/WebContent/realizarPeticion.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LineaPeticion.java" partName="LineaPeticion.java" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/src/Perrera/LineaPeticion.java" title="LineaPeticion.java" tooltip="Perrera/src/Perrera/LineaPeticion.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/src/Perrera/LineaPeticion.java"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="confirmarPeticiones.jsp" partName="confirmarPeticiones.jsp" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/WebContent/confirmarPeticiones.jsp" title="confirmarPeticiones.jsp" tooltip="Perrera/WebContent/confirmarPeticiones.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/WebContent/confirmarPeticiones.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PetProcesor.java" partName="PetProcesor.java" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/src/Perrera/PetProcesor.java" title="PetProcesor.java" tooltip="Perrera/src/Perrera/PetProcesor.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/src/Perrera/PetProcesor.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IPetProcesor.java" partName="IPetProcesor.java" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/src/Perrera/IPetProcesor.java" title="IPetProcesor.java" tooltip="Perrera/src/Perrera/IPetProcesor.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/src/Perrera/IPetProcesor.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UsuarioStore.java" partName="UsuarioStore.java" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/src/Perrera/UsuarioStore.java" title="UsuarioStore.java" tooltip="Perrera/src/Perrera/UsuarioStore.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/src/Perrera/UsuarioStore.java"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="Main.jsp" partName="Main.jsp" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/WebContent/Main.jsp" title="Main.jsp" tooltip="Perrera/WebContent/Main.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/WebContent/Main.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="holaMundo.java" partName="holaMundo.java" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/src/Servlet/holaMundo.java" title="holaMundo.java" tooltip="Perrera/src/Servlet/holaMundo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/src/Servlet/holaMundo.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Usuario.java" partName="Usuario.java" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/src/Perrera/Usuario.java" title="Usuario.java" tooltip="Perrera/src/Perrera/Usuario.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/src/Perrera/Usuario.java"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="VisualizarCola.jsp" partName="VisualizarCola.jsp" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/WebContent/VisualizarCola.jsp" title="VisualizarCola.jsp" tooltip="Perrera/WebContent/VisualizarCola.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/WebContent/VisualizarCola.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Peticion.java" partName="Peticion.java" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/src/Perrera/Peticion.java" title="Peticion.java" tooltip="Perrera/src/Perrera/Peticion.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/src/Perrera/Peticion.java"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="eliminarPeticion.jsp" partName="eliminarPeticion.jsp" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/WebContent/eliminarPeticion.jsp" title="eliminarPeticion.jsp" tooltip="Perrera/WebContent/eliminarPeticion.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/WebContent/eliminarPeticion.jsp"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="RegistroUsuario.jsp" partName="RegistroUsuario.jsp" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/WebContent/RegistroUsuario.jsp" title="RegistroUsuario.jsp" tooltip="Perrera/WebContent/RegistroUsuario.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/WebContent/RegistroUsuario.jsp"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="ValidarUsuario.jsp" partName="ValidarUsuario.jsp" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/WebContent/ValidarUsuario.jsp" title="ValidarUsuario.jsp" tooltip="Perrera/WebContent/ValidarUsuario.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/WebContent/ValidarUsuario.jsp"/>
+</editor>
+<editor id="org.eclipse.wst.html.core.htmlsource.source" name="Menu.html" partName="Menu.html" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/WebContent/Menu.html" title="Menu.html" tooltip="Perrera/WebContent/Menu.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/WebContent/Menu.html"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="ListadoVacunas.jsp" partName="ListadoVacunas.jsp" path="C:/Documents and Settings/Ignem/Escritorio/Practicas 3.5.2006/Perrera/WebContent/ListadoVacunas.jsp" title="ListadoVacunas.jsp" tooltip="Perrera/WebContent/ListadoVacunas.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Perrera/WebContent/ListadoVacunas.jsp"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.wst.server.ui.ServersView" partName="Servers">
+<viewState columnWidth0="200" columnWidth1="200" columnWidth2="200"/>
+</view>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks">
+<viewState columnWidth0="19" columnWidth1="19" columnWidth2="200" columnWidth3="75" columnWidth4="150" columnWidth5="60" horizontalPosition="0" verticalPosition="0">
+<selection/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" partName="Snippets">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.PropertySheet" partName="Properties"/>
+<view id="org.eclipse.wst.navigator.ui.WTPWorkingSetCommonNavigator" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" configured="false" rootMode="2" viewActionMode="2" workingSetName="">
+<localWorkingSetManager>
+<workingSet editPageId="org.eclipse.jst.common.navigator.ui.OthersWorkingSet" factoryID="org.eclipse.jst.common.navigator.internal.ui.workingsets.CommonWorkingSetFactory" name="Other Projects">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Servers" type="4"/>
+</workingSet>
+</localWorkingSetManager>
+<activeWorkingSet workingSetName="Other Projects"/>
+<activeWorkingSet workingSetName="Application Client Projects"/>
+<activeWorkingSet workingSetName="Connector Projects"/>
+<activeWorkingSet workingSetName="Dynamic Web Projects"/>
+<activeWorkingSet workingSetName="EJB Projects"/>
+<activeWorkingSet workingSetName="Enterprise Applications"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState columnWidth0="16" columnWidth1="200" columnWidth2="75" columnWidth3="150" columnWidth4="60" horizontalPosition="0" verticalPosition="0">
+<selection/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ResourceNavigator" partName="Navigator">
+<viewState LINK_NAVIGATOR_TO_EDITOR="0" sorter="1">
+<filters>
+<filter element="*.class" isEnabled="false"/>
+<filter element=".JETEmitters" isEnabled="true"/>
+<filter element="gen" isEnabled="true"/>
+<filter element=".*" isEnabled="false"/>
+</filters>
+</viewState>
+</view>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jst.j2ee.J2EEPerspective">
+<perspective editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.ui.internal.ide.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
+<alwaysOnActionSet id="org.eclipse.jst.ws.consumption"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.openExternalFile"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.update.ui.softwareUpdates"/>
+<alwaysOnActionSet id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.jst.j2ee.J2EEPerspective"/>
+<perspective_action id="org.eclipse.team.cvs.ui.cvsPerspective"/>
+<perspective_action id="org.eclipse.team.ui.TeamSynchronizingPerspective"/>
+<view id="org.eclipse.ui.views.ResourceNavigator"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.eclipse.ui.views.ResourceNavigator" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ResourceNavigator" label="Navigator"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.team.ccvs.ui.RepositoriesView" label="LabelNotFound"/>
+<page content="org.eclipse.team.ccvs.ui.AnnotateView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1412e75" ratio="0.74950296" ratioLeft="754" ratioRight="252" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.gef.ui.palette_view" ratio="0.25944334" ratioLeft="261" ratioRight="745" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.6586922" ratioLeft="413" ratioRight="214" relationship="4" relative="org.eclipse.gef.ui.palette_view">
+<folder activePageID="org.eclipse.ui.views.TaskList" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.team.ccvs.ui.HistoryView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.15973154" ratioLeft="119" ratioRight="626" relationship="2" relative="org.eclipse.gef.ui.palette_view"/>
+<info folder="true" part="bottomLeft" ratio="0.49920255" ratioLeft="313" ratioRight="314" relationship="4" relative="topLeft">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jst.j2ee.internal.perspective.J2EEPerspective" id="org.eclipse.jst.j2ee.J2EEPerspective" label="J2EE"/>
+<alwaysOnActionSet id="org.eclipse.jst.ws.consumption"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.openExternalFile"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.update.ui.softwareUpdates"/>
+<alwaysOnActionSet id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.jst.j2ee.J2eeMainActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jst.j2ee.J2eeMainActionSet2"/>
+<alwaysOnActionSet id="org.eclipse.jst.j2ee.J2eeMainActionSet3"/>
+<alwaysOnActionSet id="org.eclipse.jst.j2ee.J2eeMainActionSet4"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<show_view_action id="org.eclipse.wst.navigator.ui.WTPWorkingSetCommonNavigator"/>
+<show_view_action id="org.eclipse.wst.server.ui.ServersView"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.WebComponentCreationWizard"/>
+<new_wizard_action id="org.eclipse.wst.web.ui.internal.wizards.SimpleWebModuleCreation"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.EJBComponentCreationWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.jca.ui.ConnectorComponentCreationWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.internal.wizard.AppClientComponentCreationWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.internal.wizard.EARComponentCreationWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.project"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.ui.resourcePerspective"/>
+<view id="org.eclipse.wst.navigator.ui.WTPWorkingSetCommonNavigator"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.ui.views.PropertySheet"/>
+<view id="org.eclipse.wst.server.ui.ServersView"/>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.eclipse.wst.navigator.ui.WTPWorkingSetCommonNavigator" appearance="2" expanded="2">
+<page content="org.eclipse.wst.navigator.ui.WTPWorkingSetCommonNavigator" label="Project Explorer"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackagesView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.74950296" ratioLeft="754" ratioRight="252" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.20284136" ratioLeft="257" ratioRight="1010" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.6985646" ratioLeft="438" ratioRight="189" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<page content="org.eclipse.wst.server.ui.ServersView" label="Servers"/>
+<page content="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" label="Snippets"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="topRight" ratio="0.6993377" ratioLeft="528" ratioRight="227" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/Perrera/WebContent/Main.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/Perrera/WebContent/realizarPeticion.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/Perrera/WebContent/eliminarPeticion.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Perrera/src/Perrera/PetProcesor.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Perrera/src/Perrera/Animal.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Perrera/src/Perrera/LineaPeticion.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Perrera/src/Perrera/UsuarioStore.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/Perrera/WebContent/confirmarPeticiones.jsp"/>
+</editors>
+<item historyLabel="eliminarPeticion.jsp" index="2">
+<position info="not_deleted" x="466" y="0"/>
+</item>
+<item historyLabel="PetProcesor.java" index="3">
+<position info="not_deleted" x="753" y="0"/>
+</item>
+<item historyLabel="Animal.java" index="4">
+<position/>
+</item>
+<item historyLabel="PetProcesor.java" index="3">
+<position info="not_deleted" x="621" y="16"/>
+</item>
+<item historyLabel="LineaPeticion.java" index="5">
+<position/>
+</item>
+<item historyLabel="UsuarioStore.java" index="6">
+<position/>
+</item>
+<item historyLabel="PetProcesor.java" index="3">
+<position info="not_deleted" x="779" y="0"/>
+</item>
+<item historyLabel="eliminarPeticion.jsp" index="2">
+<position/>
+</item>
+<item historyLabel="PetProcesor.java" index="3">
+<position info="not_deleted" x="621" y="16"/>
+</item>
+<item historyLabel="PetProcesor.java" index="3">
+<position info="not_deleted" x="141" y="16"/>
+</item>
+<item historyLabel="PetProcesor.java" index="3">
+<position info="not_deleted" x="736" y="0"/>
+</item>
+<item historyLabel="eliminarPeticion.jsp" index="2">
+<position/>
+</item>
+<item historyLabel="PetProcesor.java" index="3">
+<position info="not_deleted" x="750" y="0"/>
+</item>
+<item historyLabel="LineaPeticion.java" index="5">
+<position info="not_deleted" x="1360" y="0"/>
+</item>
+<item historyLabel="PetProcesor.java" index="3">
+<position info="not_deleted" x="621" y="16"/>
+</item>
+<item historyLabel="LineaPeticion.java" index="5">
+<position info="not_deleted" x="1355" y="14"/>
+</item>
+<item historyLabel="eliminarPeticion.jsp" index="2">
+<position info="not_deleted" x="979" y="0"/>
+</item>
+<item historyLabel="eliminarPeticion.jsp" index="2">
+<position info="not_deleted" x="1007" y="0"/>
+</item>
+<item historyLabel="eliminarPeticion.jsp" index="2">
+<position info="not_deleted" x="1007" y="0"/>
+</item>
+<item historyLabel="PetProcesor.java" index="3">
+<position info="not_deleted" x="621" y="16"/>
+</item>
+<item historyLabel="LineaPeticion.java" index="5">
+<position info="not_deleted" x="1612" y="0"/>
+</item>
+<item historyLabel="PetProcesor.java" index="3">
+<position info="not_deleted" x="779" y="0"/>
+</item>
+<item historyLabel="PetProcesor.java" index="3">
+<position info="not_deleted" x="779" y="0"/>
+</item>
+<item historyLabel="LineaPeticion.java" index="5">
+<position info="not_deleted" x="1648" y="0"/>
+</item>
+<item historyLabel="PetProcesor.java" index="3">
+<position info="not_deleted" x="736" y="0"/>
+</item>
+<item historyLabel="PetProcesor.java" index="3">
+<position info="not_deleted" x="621" y="16"/>
+</item>
+<item historyLabel="eliminarPeticion.jsp" index="2">
+<position info="not_deleted" x="1050" y="0"/>
+</item>
+<item historyLabel="realizarPeticion.jsp" index="1">
+<position/>
+</item>
+<item historyLabel="eliminarPeticion.jsp" index="2">
+<position info="not_deleted" x="1050" y="0"/>
+</item>
+<item historyLabel="confirmarPeticiones.jsp" index="7">
+<position/>
+</item>
+<item historyLabel="PetProcesor.java" index="3">
+<position info="not_deleted" x="498" y="0"/>
+</item>
+<item historyLabel="eliminarPeticion.jsp" index="2">
+<position/>
+</item>
+<item historyLabel="Main.jsp" index="0">
+<position/>
+</item>
+<item historyLabel="eliminarPeticion.jsp" index="2">
+<position info="not_deleted" x="1007" y="0"/>
+</item>
+<item historyLabel="Main.jsp" index="0">
+<position/>
+</item>
+<item historyLabel="eliminarPeticion.jsp" index="2">
+<position info="not_deleted" x="823" y="0"/>
+</item>
+<item historyLabel="Animal.java" index="4">
+<position info="not_deleted" x="205" y="6"/>
+</item>
+<item active="true" historyLabel="Animal.java" index="4">
+<position info="not_deleted" x="1514" y="18"/>
+</item>
+</navigationHistory>
+<stickyState>
+<perspective IMemento.internal.id="org.eclipse.jst.j2ee.J2EEPerspective"/>
+</stickyState>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="index.jsp" tooltip="Perrera/WebContent/index.jsp">
+<persistable path="/Perrera/WebContent/index.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="ListadoVacunas.jsp" tooltip="Perrera/WebContent/ListadoVacunas.jsp">
+<persistable path="/Perrera/WebContent/ListadoVacunas.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="Menu.html" tooltip="Perrera/WebContent/Menu.html">
+<persistable path="/Perrera/WebContent/Menu.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="ValidarUsuario.jsp" tooltip="Perrera/WebContent/ValidarUsuario.jsp">
+<persistable path="/Perrera/WebContent/ValidarUsuario.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="RegistroUsuario.jsp" tooltip="Perrera/WebContent/RegistroUsuario.jsp">
+<persistable path="/Perrera/WebContent/RegistroUsuario.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="eliminarPeticion.jsp" tooltip="Perrera/WebContent/eliminarPeticion.jsp">
+<persistable path="/Perrera/WebContent/eliminarPeticion.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Peticion.java" tooltip="Perrera/src/Perrera/Peticion.java">
+<persistable path="/Perrera/src/Perrera/Peticion.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="VisualizarCola.jsp" tooltip="Perrera/WebContent/VisualizarCola.jsp">
+<persistable path="/Perrera/WebContent/VisualizarCola.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Usuario.java" tooltip="Perrera/src/Perrera/Usuario.java">
+<persistable path="/Perrera/src/Perrera/Usuario.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="holaMundo.java" tooltip="Perrera/src/Servlet/holaMundo.java">
+<persistable path="/Perrera/src/Servlet/holaMundo.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="Main.jsp" tooltip="Perrera/WebContent/Main.jsp">
+<persistable path="/Perrera/WebContent/Main.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UsuarioStore.java" tooltip="Perrera/src/Perrera/UsuarioStore.java">
+<persistable path="/Perrera/src/Perrera/UsuarioStore.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IPetProcesor.java" tooltip="Perrera/src/Perrera/IPetProcesor.java">
+<persistable path="/Perrera/src/Perrera/IPetProcesor.java"/>
+</file>
+</mruList>
+</workbench>

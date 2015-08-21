@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeInfoHistroy>
+<typeInfo enclosingTypes="" modifiers="513" name="IPetProcesor" package="Perrera" path="/ISG3/src/Perrera/IPetProcesor.java"/>
+<typeInfo enclosingTypes="" modifiers="513" name="ICentroProcesor" package="Perrera" path="/ISG3/src/Perrera/ICentroProcesor.java"/>
+<typeInfo enclosingTypes="" modifiers="513" name="IAnimalProcesor" package="Perrera" path="/ISG3/src/Perrera/IAnimalProcesor.java"/>
+</typeInfoHistroy>

@@ -1,0 +1,23 @@
+<html>
+<body>
+	<table id="menu">
+		<tr>
+			<th>
+				<a href="FrontController?respuesta=LineaPeticiones.jsp?botones=1">Peticiones realizadas</a>
+			</th>
+			<th>
+				<a href="FrontController?respuesta=VistaAnimales.jsp">Vista de animales</a>
+			</th>
+			<th>
+				<a href="FrontController?respuesta=VistaCentros.jsp">Vista de centros</a>
+			</th>
+			<th>
+				<a href="FrontController?respuesta=ListadoVacunas.jsp">Vacunas posibles</a>
+			</th>
+			<th>
+				<a href="Menu.html">Vacunas posibles</a>
+			</th>			
+		</tr>
+	</table>
+</body>
+</html>

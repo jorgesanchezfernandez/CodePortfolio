@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jst.j2ee.navigator.ui.ComponentWorkingSetPage" factoryID="org.eclipse.jst.j2ee.navigator.internal.workingsets.ComponentWorkingSetFactory" name="Application Client Projects" typeId="jst.appclient"/>
+<workingSet editPageId="org.eclipse.jst.j2ee.navigator.ui.ComponentWorkingSetPage" factoryID="org.eclipse.jst.j2ee.navigator.internal.workingsets.ComponentWorkingSetFactory" name="Connector Projects" typeId="jst.connector"/>
+<workingSet editPageId="org.eclipse.jst.j2ee.navigator.ui.ComponentWorkingSetPage" factoryID="org.eclipse.jst.j2ee.navigator.internal.workingsets.ComponentWorkingSetFactory" name="Dynamic Web Projects" typeId="jst.web"/>
+<workingSet editPageId="org.eclipse.jst.j2ee.navigator.ui.ComponentWorkingSetPage" factoryID="org.eclipse.jst.j2ee.navigator.internal.workingsets.ComponentWorkingSetFactory" name="EJB Projects" typeId="jst.ejb"/>
+<workingSet editPageId="org.eclipse.jst.j2ee.navigator.ui.ComponentWorkingSetPage" factoryID="org.eclipse.jst.j2ee.navigator.internal.workingsets.ComponentWorkingSetFactory" name="Enterprise Applications" typeId="jst.ear"/>
+</workingSetManager>

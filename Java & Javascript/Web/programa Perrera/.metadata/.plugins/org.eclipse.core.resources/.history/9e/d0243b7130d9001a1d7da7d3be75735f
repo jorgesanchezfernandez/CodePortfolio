@@ -1,0 +1,27 @@
+package Perrera;
+
+import java.util.List;
+import java.util.Iterator;
+import java.util.LinkedList;
+import java.util.Date;
+
+public class AnimalProcesor implements IAnimalProcesor {
+
+	public List obtenerColaEspera(Animal animal) {
+		return animal.getPeticiones();
+	}
+
+	public void obetenerCalendario(Animal animal) {
+		List listaVacunas=VacunaStore.getInstance().getVacunas();
+		Iterator itVacunas=listaVacunas.iterator();
+		int edadVacunacion= Integer.MAX_VALUE;
+		
+		
+		while(itVacunas.hasNext()){
+				
+			
+		}
+
+	}
+
+}

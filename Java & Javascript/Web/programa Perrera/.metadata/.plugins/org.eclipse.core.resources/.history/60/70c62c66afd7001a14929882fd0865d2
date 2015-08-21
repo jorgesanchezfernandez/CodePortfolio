@@ -1,0 +1,25 @@
+package Perrera;
+
+import java.util.List;
+
+public class CentroProcesor implements ICentroProcesor {
+
+	public List listaCentro(){
+		return CentroStore.getInstance().getCentros();
+	}
+	
+	public List listaAnimales(Centro centro){
+		return centro.getAnimales();
+	}
+	
+	public List listaAnimales(String nombreCentro) throws RangoException{
+		List dev=null;
+		
+		dev=CentroStore.getInstance().getCentro(nombreCentro).getAnimales();
+		if(dev==null){
+			throws new IndexOutOfBoundsException("Ocurrio un error obteniendo la lista de animales para el centro dictado.");
+		}
+		return dev;
+	}
+	
+}

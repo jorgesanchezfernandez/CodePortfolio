@@ -1,0 +1,32 @@
+package Perrera;
+
+import java.util.List;
+import java.util.Iterator;
+import java.util.LinkedList;
+import java.util.Date;
+
+public class AnimalProcesor implements IAnimalProcesor {
+
+	public List obtenerColaEspera(Animal animal) {
+		return animal.getPeticiones();
+	}
+
+	public void obetenerCalendario(Animal animal) {
+		List listaVacunas=VacunaStore.getInstance().getVacunas();
+		Iterator itVacunas=listaVacunas.iterator();
+		Vacuna vacunaIt=null;
+		List auxList=new LinkedList();			//Lista de linea de vacunas que organiza las vacunas.
+		Date fechaVacuna=animal.getFechaNacimiento();
+		Date fechaMenor=new Date();						
+	
+		while(itVacunas.hasNext()){
+			vacunaIt=(Vacuna)itVacunas.next();
+			fechaVacuna=fechaVacuna.setYear(fechaVacuna.getYear()+vacunaIt.getEdadVacunacion());
+			if(vacunaIt.getTipo()==animal.getEspecie() && fechaMenor<fechaVacuna){
+				
+			}
+		}
+
+	}
+
+}

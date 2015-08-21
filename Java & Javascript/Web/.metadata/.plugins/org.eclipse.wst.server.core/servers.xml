@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servers>
+<server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v5.5 Server @ localhost-config" hostname="localhost" id="3_05_06_12_364" name="Tomcat v5.5 Server @ localhost" runtime-id="Apache Tomcat v5.5" server-type="org.eclipse.jst.server.tomcat.55" server-type-id="org.eclipse.jst.server.tomcat.55" testEnvironment="true">
+<list key="modules" value0="Perrera::org.eclipse.jst.j2ee.server:Perrera::jst.web::2.4"/>
+</server>
+</servers>
