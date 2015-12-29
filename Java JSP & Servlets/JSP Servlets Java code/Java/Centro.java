@@ -1,4 +1,4 @@
-package Perrera;
+
 /**
  * Clase encargada de controlar los centros.
  */

@@ -1,4 +1,4 @@
-package Perrera;
+
 /**
  * Clase que se encarga del baremo y la medicion de puntos por usuario.
  */

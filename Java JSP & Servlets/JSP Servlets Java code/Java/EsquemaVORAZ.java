@@ -1,4 +1,3 @@
-package Perrera;
 
 public abstract class EsquemaVZ {
 
