@@ -1,4 +1,0 @@
-#Wed May 03 12:36:36 CEST 2006
-module-start-timeout=300000
-runtimes=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<runtimes>\r\n<runtime id\="Apache Tomcat v5.5" location\="C\:/Archivos de programa/Apache Software Foundation/Tomcat 5.5" name\="Apache Tomcat v5.5" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.55" timestamp\="0" vm-install-id\="0" vm-install-type-id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType"/>\r\n</runtimes>\r\n
-eclipse.preferences.version=1

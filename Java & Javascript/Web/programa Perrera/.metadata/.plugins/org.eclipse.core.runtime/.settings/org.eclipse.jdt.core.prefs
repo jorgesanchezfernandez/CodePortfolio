@@ -1,5 +1,0 @@
-#Mon Mar 27 17:33:07 CEST 2006
-eclipse.preferences.version=1
-org.eclipse.jdt.core.builder.resourceCopyExclusionFilter=*.launch,*.g
-org.eclipse.jdt.core.classpathVariable.ANTLR_HOME=l\:/eclipse-3.1.2/plugins/org.antlr_2.7.6
-org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
